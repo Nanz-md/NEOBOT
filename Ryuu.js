@@ -664,11 +664,11 @@ const fvid = {
 key: { 
 fromMe: false,
 participant: `0@s.whatsapp.net`, ...(from ? 
-{ remoteJid: "6283891921787-1613049930@g.us" } : {}) 
+{ remoteJid: "6287811503157-1613049930@g.us" } : {}) 
 },
 message: { 
 "videoMessage": { 
-"title": `Atsair Botz🐧`,
+"title": `Neo BOT`,
 "h": `${tampilUcapan} ${pushname}`,
 'duration': '99999', 
 'caption': `${tampilUcapan} ${pushname}`,
@@ -2996,7 +2996,7 @@ reply(`*${tampilUcapan} ${pushname}*\n\n_*Pilih Salah Satu Untuk Melakukan TopUp
 break
 case 'mobilelegend': case 'ml':
 if (isBanned) return reply('Kamu Sudah Di banned!')
-capti =`*Ryuuka Store*
+capti =`*Neo Store*
    
 PROSES 1-60Mnt Max 1X24 Jam  
 OPEN 08.00-21.00  
@@ -3033,7 +3033,7 @@ sendButton(from, capti, `Store ${ownername}`, but)
 break
 case 'aov':
 if (isBanned) return reply('Kamu Sudah Di banned!')
-capti =`*Ryuuka Store*
+capti =`*Neo Store*
    
 PROSES 1-60Mnt Max 1X24 Jam  
 OPEN 08.00-21.00  
@@ -3060,7 +3060,7 @@ sendButton(from, capti, `Store ${ownername}`, but)
 break
 case 'codm': case 'cod':
 if (isBanned) return reply('Kamu Sudah Di banned!')
-capti = `*Ryuuka Store*
+capti = `*Neo Store*
     
 PROSES 1-60Mnt 1X24 Jam   
 OPEN 10.00-19.00   
@@ -3083,7 +3083,7 @@ sendButton(from, capti, `Store ${ownername}`, but)
 break
 case 'freefire': case 'ff':
 if (isBanned) return reply('Kamu Sudah Di banned!')
-capti = `*Ryuuka Store*
+capti = `*Neo Store*
     
 PROSES 1-180Mnt 1X24 Jam   
 OPEN 10.00-19.00   
@@ -3117,7 +3117,7 @@ sendButton(from, capti, `Store ${ownername}`, but)
 break
 case 'lol':
 if (isBanned) return reply('Kamu Sudah Di banned!')
-capti = `*Ryuuka Store*
+capti = `*Neo Store*
     
 PROSES 1-180Mnt 1X24 Jam   
 OPEN 10.00-19.00   
@@ -3139,7 +3139,7 @@ sendButton(from, capti, `Store ${ownername}`, but)
 break
 case 'sausage':
 if (isBanned) return reply('Kamu Sudah Di banned!')
-capti = `*Ryuuka Store*
+capti = `*Neo Store*
  
 PROSES 1-60Mnt Max 1X24 Jam  
 OPEN 09.00-21.00  
@@ -3162,7 +3162,7 @@ sendButton(from, capti, `Store ${ownername}`, but)
 break
 case 'valorant': case 'valo':
 if (isBanned) return reply('Kamu Sudah Di banned!')
-capti = `*Ryuuka Store*
+capti = `*Neo Store*
   
 PROSES 1-180Mnt Max 1X24 Jam  
 OPEN 10.00-19.00  
