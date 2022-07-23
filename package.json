@@ -1,7 +1,7 @@
 {
-  "name": "RyuukaBotz",
+  "name": "Neo BOT",
   "version": "1.0.0",
-  "description": "Halo Kontol",
+  "description": "Bot By Nanz",
   "main": "index.js",
   "directories": {
     "lib": "lib"
